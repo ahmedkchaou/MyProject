@@ -5,6 +5,7 @@ public interface ICalculator {
 	//correctif
 	int sum(int a, int b);
 
+	//substraction
 	int subtraction(int a, int b) throws Exception;
 
 	int multiplication(int a, int b);
