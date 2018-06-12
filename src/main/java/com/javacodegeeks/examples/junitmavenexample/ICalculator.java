@@ -1,6 +1,8 @@
 package com.javacodegeeks.examples.junitmavenexample;
 
 public interface ICalculator {
+	
+	//correctif
 	int sum(int a, int b);
 
 	int subtraction(int a, int b) throws Exception;
