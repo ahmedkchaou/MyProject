@@ -2,7 +2,7 @@ package com.javacodegeeks.examples.junitmavenexample;
 
 public interface ICalculator {
 	
-	//correcti
+	//correctif
 	int sum(int a, int b);
 
 	//substraction + 1
