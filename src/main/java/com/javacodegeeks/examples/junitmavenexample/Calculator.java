@@ -13,7 +13,7 @@ public class Calculator implements ICalculator {
 		this.aTest = aTest;
 	}
 
-//test somme
+//test somme with new branch
 	public int sum(int a, int b)   {
 		
 		return a + b;
