@@ -2,12 +2,12 @@ package com.javacodegeeks.examples.junitmavenexample;
 
 public interface ICalculator {
 	
-	
+	//correctif
 	int sum(int a, int b);
 
+	//substraction
 	int subtraction(int a, int b) throws Exception;
-	
-	//sum je termine mes travaux prob53
+
 	int multiplication(int a, int b);
 
 	int divison(int a, int b) throws Exception;
