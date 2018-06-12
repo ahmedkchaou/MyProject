@@ -13,11 +13,9 @@ public class Calculator implements ICalculator {
 		this.aTest = aTest;
 	}
 
-<<<<<<< HEAD
+
 //test somme with new branch
-=======
-//test somme new
->>>>>>> master
+
 	public int sum(int a, int b)   {
 		
 		return a + b;
