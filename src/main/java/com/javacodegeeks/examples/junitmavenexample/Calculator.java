@@ -14,7 +14,7 @@ public class Calculator implements ICalculator {
 	}
 
 
-//test somme with new branch
+//test somme with new new
 
 	public int sum(int a, int b)   {
 		
